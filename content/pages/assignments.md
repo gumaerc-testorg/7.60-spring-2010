@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a description of the final assignment, a critical
+  description of an experimental approach to address a topic covered in class.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
