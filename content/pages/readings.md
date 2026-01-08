@@ -35,7 +35,7 @@ READINGS
 Discussion: Genome and systems biology
 {{< tdclose >}}
 {{< tdopen >}}
-Nishiyama, A., L. Xin, A. A. Sharov, and M. Thomas, et al. "{{% resource_link "d9c23055-e7f6-4693-92e4-1021c7bc1fb3" "Uncovering Early Response of Gene Regulatory Networks in ESCs by Systematic Induction of Transcription Factors." %}}" _Cell Stem Cell_ 5 (2009): 420-33.
+Nishiyama, A., L. Xin, A. A. Sharov, and M. Thomas, et al. "[Uncovering Early Response of Gene Regulatory Networks in ESCs by Systematic Induction of Transcription Factors.](http://www.ncbi.nlm.nih.gov/pubmed/19796622)" _Cell Stem Cell_ 5 (2009): 420-33.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -47,7 +47,7 @@ Nishiyama, A., L. Xin, A. A. Sharov, and M. Thomas, et al. "{{% resource_link "d
 Discussion: Cell cycle
 {{< tdclose >}}
 {{< tdopen >}}
-Li, S., S. Makovets, T. Matsuguchi, J. D. Blethrow, K. M. Shokat, and E. H. Blackburn. "{{% resource_link "77759ed1-22f2-42f1-b693-18bbd870a222" "Cdk1-Dependent Phosphorylation of Cdc13 Coordinates Telomere Elongation During Cell-Cycle rogression." %}}" _Cell_ 136 (2009): 50-61.
+Li, S., S. Makovets, T. Matsuguchi, J. D. Blethrow, K. M. Shokat, and E. H. Blackburn. "[Cdk1-Dependent Phosphorylation of Cdc13 Coordinates Telomere Elongation During Cell-Cycle rogression.](http://www.ncbi.nlm.nih.gov/pubmed/19135888)" _Cell_ 136 (2009): 50-61.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,9 +61,9 @@ Discussion: Transcriptional regulation
 {{< tdopen >}}
 
 
-Takahashi, K., and S. Yamanaka. "{{% resource_link "ec7a3065-af21-43d5-bcc4-42f5949a8491" "Induction of Pluripotent Stem Cells from Mouse Embryonic and Adult Fibroblast Cultures by Defined Factors" %}}." _Cell_ 126 (2006): 663–76.
+Takahashi, K., and S. Yamanaka. "[Induction of Pluripotent Stem Cells from Mouse Embryonic and Adult Fibroblast Cultures by Defined Factors](http://www.cell.com/abstract/S0092-8674%2806%2900976-7)." _Cell_ 126 (2006): 663–76.
 
-Okita, K., M. Nakagawa, H. Hyenjong , T. Ichisaka, and S. Yamanaka  "{{% resource_link "5205a3f9-d2f9-4e9d-b93e-c211f96acf5c" "Generation of Mouse Induced Pluripotent Stem Cells Without Viral Vectors" %}}." _Science_ 322 (2008): 949-53.
+Okita, K., M. Nakagawa, H. Hyenjong , T. Ichisaka, and S. Yamanaka  "[Generation of Mouse Induced Pluripotent Stem Cells Without Viral Vectors](http://www.sciencemag.org/cgi/content/full/322/5903/949)." _Science_ 322 (2008): 949-53.
 
 
 {{< tdclose >}}
@@ -77,7 +77,7 @@ Okita, K., M. Nakagawa, H. Hyenjong , T. Ichisaka, and S. Yamanaka  "{{% resour
 Discussion: Transcription and chromatin modification
 {{< tdclose >}}
 {{< tdopen >}}
-Ezhkova, E., H. A. Pasolli, J. S. Parker, N. Stokes, I. H. Su, G. Hannon, A. Tarakhovsky, and E. Fuchs. "{{% resource_link "8c4cafbc-5f82-4c1b-88d8-d350f2f19287" "Ezh2 Orchestrates Gene Expression for the Stepwise Differentiation of Tissue-Specific Stem Cells" %}}." _Cell_ 136 (2009): 1122-35.
+Ezhkova, E., H. A. Pasolli, J. S. Parker, N. Stokes, I. H. Su, G. Hannon, A. Tarakhovsky, and E. Fuchs. "[Ezh2 Orchestrates Gene Expression for the Stepwise Differentiation of Tissue-Specific Stem Cells](http://www.ncbi.nlm.nih.gov/pubmed/19303854)." _Cell_ 136 (2009): 1122-35.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,9 +91,9 @@ Discussion: Chromosomes/replication
 {{< tdopen >}}
 
 
-Wang, X., J. W. Tsai, J. H. Imai, W. N. Lian, R. B. Vallee, and S. H. Shi. "{{% resource_link "2553516e-af6c-40b6-8129-0c11d9a83495" "Asymmetric Centrosome Inheritance Maintains Neural Progenitors in the Neocortex" %}}." _Nature_ 461 (2009): 947-55.
+Wang, X., J. W. Tsai, J. H. Imai, W. N. Lian, R. B. Vallee, and S. H. Shi. "[Asymmetric Centrosome Inheritance Maintains Neural Progenitors in the Neocortex](http://dx.doi.org/10.1038/nature08435)." _Nature_ 461 (2009): 947-55.
 
-Falconer, E., E. A. Chavez, A. Henderson, S. S. Poon, S. McKinney, L. Brown, D. G. Huntsman, and P. M. Lansdorp. "{{% resource_link "ba5ddfa0-4397-47e9-af39-cf0ecbc032d6" "Identification of Sister Chromatids by DNA Template Strand Sequences" %}}." _Nature_ 463 (2010): 93-7.
+Falconer, E., E. A. Chavez, A. Henderson, S. S. Poon, S. McKinney, L. Brown, D. G. Huntsman, and P. M. Lansdorp. "[Identification of Sister Chromatids by DNA Template Strand Sequences](http://dx.doi.org/10.1038/nature08644)." _Nature_ 463 (2010): 93-7.
 
 
 {{< tdclose >}}
@@ -107,7 +107,7 @@ Falconer, E., E. A. Chavez, A. Henderson, S. S. Poon, S. McKinney, L. Brown, D. 
 Discussion: Epigenetics
 {{< tdclose >}}
 {{< tdopen >}}
-Iliopoulos, D., H. A. Hirsch, and K. Struhl. "{{% resource_link "4c7d6637-3d78-4f53-9b70-79fd3aa1beab" "An Epigenetic Switch Involving NF-kappaB, Lin28, Let-7 MicroRNA, and IL6 Links Inflammation to Cell Transformation" %}}." _Cell_ 139 (2009): 693-706.
+Iliopoulos, D., H. A. Hirsch, and K. Struhl. "[An Epigenetic Switch Involving NF-kappaB, Lin28, Let-7 MicroRNA, and IL6 Links Inflammation to Cell Transformation](http://www.cell.com/fulltext/S0092-8674%2809%2901302-6)." _Cell_ 139 (2009): 693-706.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -119,7 +119,7 @@ Iliopoulos, D., H. A. Hirsch, and K. Struhl. "{{% resource_link "4c7d6637-3d78-4
 Discussion: Nuclear structure/export
 {{< tdclose >}}
 {{< tdopen >}}
-Wickramasinghe, V. O., P. I. A. McMurtrie, A. D. Mills, Y. Takei, S. Penrhyn-Lowe, Y. Amagase, S. Main, J. Marr, M. Stewart, and R. A. Laskey. "{{% resource_link "58ea13a0-0faf-4e0b-ac36-3052aa4ab038" "mRNA Export from Mammalian Cell Nuclei Is Dependent on GANP" %}}." _Current Biology_ 20 (2010): 25-31.
+Wickramasinghe, V. O., P. I. A. McMurtrie, A. D. Mills, Y. Takei, S. Penrhyn-Lowe, Y. Amagase, S. Main, J. Marr, M. Stewart, and R. A. Laskey. "[mRNA Export from Mammalian Cell Nuclei Is Dependent on GANP](http://www.cell.com/current-biology/fulltext/S0960-9822%2809%2901995-2#Summary)." _Current Biology_ 20 (2010): 25-31.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,9 +133,9 @@ Discussion: Chromatin and gene expression I
 {{< tdopen >}}
 
 
-Hadjur, S., L. M. Williams, N. K. Ryan, B. S. Cobb, T. Sexton, P. Fraser, A. G. Fisher, and M. Merkenschlager. "{{% resource_link "77d07240-ded4-4752-9803-293e5e09d810" "Cohesins Form Chromosomal _Cis_\-Interactions at the Developmentally Regulated _IFNG_ Locus" %}}." _Nature_ 460 (2009): 410-13.
+Hadjur, S., L. M. Williams, N. K. Ryan, B. S. Cobb, T. Sexton, P. Fraser, A. G. Fisher, and M. Merkenschlager. "[Cohesins Form Chromosomal _Cis_\-Interactions at the Developmentally Regulated _IFNG_ Locus](http://dx.doi.org/10.1038/nature08079)." _Nature_ 460 (2009): 410-13.
 
-Lieberman-Aiden, E., N. L. van Berkum, L. Williams, M. Imakaev, T. Ragoczy, A. Telling, I. Amit, B. R. Lajoie, P. J. Sabo, M. O. Dorschner, R. Sandstrom, B. Bernstein, M. A. Bender, M. Groudine, A. Gnirke, J. Stamatoyannopoulos, L. A. Mirny , E. S. Lander, and J. Dekker. "{{% resource_link "de73ca75-ca2a-4603-ad48-3d527043a9b4" "Comprehensive Mapping of Long-Range Interactions Reveals Folding Principles of the Human Genome." %}}" _Science_ 326 (2009): 289-93.
+Lieberman-Aiden, E., N. L. van Berkum, L. Williams, M. Imakaev, T. Ragoczy, A. Telling, I. Amit, B. R. Lajoie, P. J. Sabo, M. O. Dorschner, R. Sandstrom, B. Bernstein, M. A. Bender, M. Groudine, A. Gnirke, J. Stamatoyannopoulos, L. A. Mirny , E. S. Lander, and J. Dekker. "[Comprehensive Mapping of Long-Range Interactions Reveals Folding Principles of the Human Genome.](http://www.ncbi.nlm.nih.gov/pubmed/19815776)" _Science_ 326 (2009): 289-93.
 
 
 {{< tdclose >}}
@@ -149,7 +149,7 @@ Lieberman-Aiden, E., N. L. van Berkum, L. Williams, M. Imakaev, T. Ragoczy, A. T
 Discussion: Chromatin and gene expression II
 {{< tdclose >}}
 {{< tdopen >}}
-Hartley, P. D., and H. D. Madhani. "{{% resource_link "71f28972-e0b4-4911-a30f-ed0c32c338c1" "Mechanisms That Specify Promoter Nucleosome Location and Identity" %}}." _Cell_ 137 (2009): 445-58.
+Hartley, P. D., and H. D. Madhani. "[Mechanisms That Specify Promoter Nucleosome Location and Identity](http://www.cell.com/abstract/S0092-8674%2809%2900257-8)." _Cell_ 137 (2009): 445-58.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -163,9 +163,9 @@ Discussion: Alternative splicing and polyadenylation
 {{< tdopen >}}
 
 
-Zhang, C., Z. Zhang, J. Castle, S. Sun, J. Johnson, A. R. Krainer, and M. Q. Zhang. "{{% resource_link "836d3c19-dae4-471f-85ba-8ace36e4df3b" "Defining the Regulatory Network of the Tissue-Specific Splicing Factors Fox-1 and Fox-2" %}}." _Genes Dev_ 22 (2008): 2550-63.
+Zhang, C., Z. Zhang, J. Castle, S. Sun, J. Johnson, A. R. Krainer, and M. Q. Zhang. "[Defining the Regulatory Network of the Tissue-Specific Splicing Factors Fox-1 and Fox-2](http://genesdev.cshlp.org/content/22/18/2550.full)." _Genes Dev_ 22 (2008): 2550-63.
 
-Lee, J. -A., Z. Z. Tang, and D. L. Black. "{{% resource_link "34570ae8-d7c0-4db5-b9e7-fe5b4201656b" "An Inducible Change in Fox-1/A2BP1 Splicing Modulates the Alternative Splicing of Downstream Neuronal Target Exons" %}}." _Genes Dev_ 23 (2009): 2284-93.
+Lee, J. -A., Z. Z. Tang, and D. L. Black. "[An Inducible Change in Fox-1/A2BP1 Splicing Modulates the Alternative Splicing of Downstream Neuronal Target Exons](http://genesdev.cshlp.org/content/23/19/2284.full)." _Genes Dev_ 23 (2009): 2284-93.
 
 
 {{< tdclose >}}
@@ -179,7 +179,7 @@ Lee, J. -A., Z. Z. Tang, and D. L. Black. "{{% resource_link "34570ae8-d7c0-4db5
 Discussion: RNA interference and microRNAs
 {{< tdclose >}}
 {{< tdopen >}}
-Gu, W., M. Shirayama, D. Conte, Jr., J. Vasale, P. J. Batista, J. M. Claycomb, J. J. Moresco, E. M. Youngman, J. Keys, M. J. Stoltz, C. C. Chen, D. A. Chaves, S. Duan, K.D. Kasschau, N. Fahlgren, J. R. III Yates, S. Mitani, J. C. Carrington, and C. C. Mello. "{{% resource_link "006cf042-360a-4a92-956c-0beede8f290d" "Distinct Argonaute-Mediated 22G-RNA Pathways Direct Genome Surveillance in the C. elegans Germline" %}}." _Mol Cell_ 36 (2009): 231-44.
+Gu, W., M. Shirayama, D. Conte, Jr., J. Vasale, P. J. Batista, J. M. Claycomb, J. J. Moresco, E. M. Youngman, J. Keys, M. J. Stoltz, C. C. Chen, D. A. Chaves, S. Duan, K.D. Kasschau, N. Fahlgren, J. R. III Yates, S. Mitani, J. C. Carrington, and C. C. Mello. "[Distinct Argonaute-Mediated 22G-RNA Pathways Direct Genome Surveillance in the C. elegans Germline](http://www.ncbi.nlm.nih.gov/pubmed/19800275)." _Mol Cell_ 36 (2009): 231-44.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -193,7 +193,7 @@ Discussion: RNA interference and transcription
 {{< tdopen >}}
 
 
-Klattenhoff, C., H. Xi, C. Li, S. Lee, J. Xu, J. S. Khurana, F. Zhang, N. Schultz, B. S. Koppetsch, A. Nowosielska, H. Seitz, P. D. Zamore, Z. Weng, and W. E. Theurkauf. "{{% resource_link "63543b1a-ee0f-4cd6-81b2-630dc7aa20dc" "The Drosophila HP1 Homolog Rhino Is Required for Transposon Silencing and piRNA Production by Dual-Strand Clusters" %}}." _Cell_ 138 (2009): 1137-49.
+Klattenhoff, C., H. Xi, C. Li, S. Lee, J. Xu, J. S. Khurana, F. Zhang, N. Schultz, B. S. Koppetsch, A. Nowosielska, H. Seitz, P. D. Zamore, Z. Weng, and W. E. Theurkauf. "[The Drosophila HP1 Homolog Rhino Is Required for Transposon Silencing and piRNA Production by Dual-Strand Clusters](http://www.ncbi.nlm.nih.gov/pubmed/19732946)." _Cell_ 138 (2009): 1137-49.
 
 
 {{< tdclose >}}
